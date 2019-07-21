@@ -32,7 +32,7 @@ body a:hover{
 /*-- Header Part Starts Here --*/
 .header {
 	padding: 1.4em 0 1.5em 3em;
-	background: rgba(135, 132, 116, 0.76);
+	background: black(135, 132, 116, 0.76);
 	margin: 0 auto;
 	position: absolute;
 	width: 80%;
@@ -210,7 +210,7 @@ ul.navig li:nth-of-type(3) {
 	position: relative;
 	color:white;
 }
-.fa-twitter-square:before {
+.fa-instagram-square:before {
 	content: "\f081";
 }
 .fa-facebook-square:before {
